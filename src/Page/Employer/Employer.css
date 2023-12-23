@@ -1,0 +1,17 @@
+.btnStyle{
+    border:1px solid #cf9c03;
+    padding:.5rem 1rem .5rem 1rem;
+    border-radius:30px;
+    margin-left:1rem;
+    margin-right:1rem;
+}
+
+.btnStyle-active{
+    border:1px solid #cf9c03;
+    background-color: #cf9c03;
+    padding:.5rem 1rem .5rem 1rem;
+    border-radius:30px;
+    margin-left:1rem;
+    margin-right:1rem;
+    color: white;
+} 
